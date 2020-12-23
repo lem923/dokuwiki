@@ -1,0 +1,1 @@
+This page is published to test gitbacked plugin.
