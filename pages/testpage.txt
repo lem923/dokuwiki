@@ -1,12 +1,4 @@
 
 This page is published to test gitbacked plugin. 
 
-Error: this operation must be run in a work tree.
-
-Error 2: is outside repository.
-
-then, the third try.
-
-Fourth try.
-
-Fifth try.
+It does not work.
